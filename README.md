@@ -16,13 +16,19 @@
 - unet/data/membrane/train/image картинки (0.png)
 - unet/data/membrane/train/aug/ сгенерированные картинки (image_0_6144147.png) и маски  (mask_0_6144147.png)
 
+
+
 - unet/data/membrane/test/  маски картинок (0.png) 
 - unet/data/membrane/test/  картинки (0_predict.png)
+
+
 
 - ?
 - unet/data/membrane/test-volume.tif
 - unet/data/membrane/train-labels.tif	
 - unet/data/membrane/train-volume.tif
+
+
 
 - картинки оформления
 - unet/img/0label.png  маска картинки
