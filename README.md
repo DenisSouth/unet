@@ -1,19 +1,10 @@
 
 ## How to use
 
-### Dependencies
-
-This tutorial depends on the following libraries:
-
-* Tensorflow
-* Keras >= 1.0
-
-Also, this code should be compatible with Python versions 2.7-3.5.
-
-### Run main.py
-
-You will see the predicted results of test image in data/membrane/test
-
+### main.py
+- использует model.py и data.py
+- обучает сеть и создает обработанные картинки в  data/membrane/test
+- а так же сохраняет сеть
 ### Or follow notebook trainUnet
 
 ### Results
