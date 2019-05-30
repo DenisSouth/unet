@@ -24,7 +24,7 @@ unet/data/membrane/test/  картинки (0_predict.png)
 
 
 
-какие то картинки
+- какие то картинки
 
 unet/data/membrane/test-volume.tif фото клеток 0
 
@@ -35,7 +35,7 @@ unet/data/membrane/train-volume.tif  фото клеток 1
 
 
 
-картинки оформления
+- картинки оформления
 
 unet/img/0label.png  маска картинки
 
