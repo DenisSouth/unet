@@ -24,13 +24,13 @@ unet/data/membrane/test/  картинки (0_predict.png)
 
 
 
-?
+какие то картинки
 
-unet/data/membrane/test-volume.tif
+unet/data/membrane/test-volume.tif фото клеток 0
 
-unet/data/membrane/train-labels.tif	
+unet/data/membrane/train-labels.tif	 маска фото клеток1
 
-unet/data/membrane/train-volume.tif
+unet/data/membrane/train-volume.tif  фото клеток 1 
 
 
 
