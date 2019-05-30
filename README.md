@@ -7,6 +7,9 @@
 - а так же сохраняет сеть
 ### Or follow notebook trainUnet
 
+### dataPrepare.ipynb
+генерация датасета на основе малой выборки
+
 ### Results
 
 Use the trained model to do segmentation on test images, the result is statisfactory.
