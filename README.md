@@ -5,7 +5,7 @@
 - использует model.py и data.py
 - обучает сеть и создает обработанные картинки в  data/membrane/test
 - а так же сохраняет сеть
-### Or follow notebook trainUnet
+
 
 ### dataPrepare.ipynb
 генерация датасета на основе малой выборки
