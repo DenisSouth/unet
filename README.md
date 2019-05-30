@@ -1,11 +1,10 @@
 
 ## How to use
 
-### main.py
+### main.py = trainUnet.ipynb
 - использует model.py и data.py
 - обучает сеть и создает обработанные картинки в  data/membrane/test
 - а так же сохраняет сеть
-
 
 ### dataPrepare.ipynb
 генерация датасета на основе малой выборки
